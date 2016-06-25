@@ -1,0 +1,1 @@
+java -jar Trains.jar > output.txt trains.ArgsTest 500
